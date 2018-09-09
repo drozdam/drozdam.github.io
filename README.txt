@@ -1,35 +1,61 @@
-Alpha by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+
+TITLE: 
+Union - Multi-Purpose One Page Responsive Free HTML5 template
+
+AUTHOR:
+DESIGNED & DEVELOPED by FREEHTML5.co
+
+Website: http://freehtml5.co/
+Twitter: http://twitter.com/fh5co
+Facebook: http://facebook.com/fh5co
 
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
+CREDITS:
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+Bootstrap
+http://getbootstrap.com/
 
-(* = Not included)
+jQuery
+http://jquery.com/
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+jQuery Easing
+http://gsgd.co.uk/sandbox/jquery/easing/
 
-AJ
-aj@lkn.io | @ajlkn
+Modernizr
+http://modernizr.com/
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Google Fonts
+https://www.google.com/fonts/
+
+Google Map
+http://maps.google.com/
+
+Icomoon
+https://icomoon.io/app/
+
+Simple Line Icons
+https://github.com/thesabbir/simple-line-icons
+
+Respond JS
+https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
+
+animate.css
+http://daneden.me/animate
+
+jQuery Waypoint
+https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
+
+Owl Carousel
+http://www.owlcarousel.owlgraphic.com/
+
+Stellar Parallax
+http://markdalgleish.com/projects/stellar.js/
+
+Demo Images:
+http://pexels.com
+Dribble demo image
+https://dribbble.com/tibi_neamu
 
 
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Mafnific Popup
+http://dimsemenov.com/plugins/magnific-popup/
