@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 3px;
 }
 #fh5co-header .navbar-brand > span {
-  color: #ff3b30;
+  color: #86c3d4;
 }
 @media screen and (max-width: 992px) {
   #fh5co-header .navbar-brand {
@@ -294,7 +294,7 @@ h1, h2, h3, h4, h5, h6 {
   left: 0;
   right: 0;
   z-index: 2;
-  background: rgba(0, 0, 0, 0.3);
+  background: rgba(0, 0, 0, 0.5);
 }
 #fh5co-home, #fh5co-home .text-wrap {
   height: 900px;
@@ -311,14 +311,14 @@ h1, h2, h3, h4, h5, h6 {
   text-align: center;
 }
 #fh5co-home .text-inner h1 {
-  font-size: 38px;
+  font-size: 50px;
   text-transform: uppercase;
   color: white;
   margin: 0 0 20px 0;
   font-weight: 700;
 }
 #fh5co-home .text-inner h2 {
-  font-size: 20px;
+  font-size: 30px;
   line-height: 30px;
   font-weight: 300;
   color: rgba(255, 255, 255, 0.8);
