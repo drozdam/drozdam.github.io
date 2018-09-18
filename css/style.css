@@ -1232,4 +1232,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight:normal;
 }
 
+.copyright
+{
+  background: #3f5267;
+  color: #74889e;
+}
+
 /*# sourceMappingURL=style.css.map */
