@@ -591,6 +591,18 @@ Following her curiosity and passion, Becky moved into the Mental Health sector a
 
 	    $(".heightAdjust").height(maxHeight);
 		});
+		
+		
+		//make all Team boxes the same height
+		$( document ).ready(function() {
+	    var heights = $(".team-box").map(function() {
+	        return $(this).height();
+	    }).get(),
+
+	    maxHeight = Math.max.apply(null, heights);
+
+	    $(".team-box").height(maxHeight);
+		});
 
 		
 	</script>
