@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^www\.pacecounselling\.ca$ [NC]
+RewriteRule ^(.*)$ https://www.pacecounselling.ca/$1 [R=301,L]
